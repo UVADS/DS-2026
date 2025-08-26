@@ -21,12 +21,12 @@ Github: gg5d
 Habiba Morsy  
 Graduate student in Data Science  
 crv4jj@virginia.edu  
-Github: 
+
 
 Cynthia Leng  
 Graduate student in Data Science  
 eam5kk@virginia.edu  
-Github: 
+ 
 
 ## Instruction & Office hours
 
@@ -151,6 +151,10 @@ The following are the four ideas that I hope will persist with students after th
 
 </details>
 
+## Classroom environment
+
+The instructor may occasionally designate portions of class time as "No Laptop No Phone" periods. During these times, please put away laptops and cell phones in your bags. You're encouraged to take notes using paper and pencil instead. If you need to use your devices, you're welcome to step out of the classroom briefly. The instructor will provide gentle reminders about this policy, and continued non-compliance may result in point deductions from your final exam grade.
+
 ## Grading
 
 Courses carrying a Data Science subject area use the following grading system: A, A-; B+, B, B-; C+, C, C-; D+, D, D-; F.  The symbol W is used when a student officially drops a course before its completion or if the student withdraws from an academic program of the University.
@@ -168,44 +172,13 @@ Grading Scale:
  - <70 F
 
 Grades will be a weighted average of the final exam score (30%), the midterm exams (each 15%), the deliverables (20%) and homeworks (20%).
- 
-Individual homeworks are graded with a score of 0, 1, or 2.  After the initial grading, students may resubmit homework within one week of feedback for an additional point.  That is, an initial score of 1 can be bumped up to a 2.  Likewise, a 0 can be bumped up to a 1.
 
-Deliverables are larger assignments than homework.  To complete the deliverables, you will use probability models to build simulations of complex real world processes to answer questions.  Deliverables are graded like homeworks, including the opportunity to resubmit for an additional point.
+Homeworks are assigned regularly, and will appear in the course calendar.  Submission instructions are detailed in each assignment.  Two homework grades will be dropped when calculating the final grade.
+
+Deliverables are larger assignments than homework.  To complete the deliverables, you will use probability models to build simulations of complex real world processes to answer questions.  Deliverables are graded with a score of 0, 1, or 2. After the initial grading, students may resubmit the deliverable within one week of feedback for an additional point. That is, an initial score of 1 can be bumped up to a 2. Likewise, a 0 can be bumped up to a 1.
 
 Midterm exams are graded on a 100 point scale.  For midterm 1, if your grade on midterm 2 or the final is higher, the higher score will replace the score for midterm 1.  Likewise, for midterm 2, if your grade on the final exam is higher, the higher score will replace the score for midterm 2.  For example, suppose your exams scores for the midterms and final were 72, 88, 85.  For the purposes of the final grade, your exam scores would be 88, 88, 85.
 
-### Grading Homework
-
-Homework assignments will be submitted on Gradescope. Each question on a homework will be graded as a 0, 0.5, or 1. A score of 0 means the question was left blank or there was not a good faith effort. A 0.5 means the answer was a good faith effort, but not fully correct. A 1 means the answer is correct. The total grade for the assignment will be the fraction of total points earned and total possible points. The final score for the assignment will be determined by the following rule:
-
-$$
-\begin{aligned}
-  x = \frac{\text{Total Points Earned}}{\text{Total Possible Points}}
-  \\
-  \\
-  \text{Final Score} = \begin{cases}
-    0, \quad 0 < x < 0.5 \\
-    1, \quad 0.5 \leq x < 0.8 \\
-    2, \quad 0.8 \leq x \leq 1
-  \end{cases} 
-\end{aligned}
-$$
-
-**Example Scenario**: Imagine an assignment has 3 questions. A student receives a 0.5, 1, and 1 on Questions 1, 2, and 3 respectively. Their total points are $0.5 + 1 + 1 = 2.5$. The total possible points, 1 point per question, was $3 * 1 = 3$. The percentage on the assignment is therefore $x = \frac{2.5}{3} = 0.8\bar{3}$. Because this score is greater than $0.8$, the student would receive a 2 on the assignment.
-
-**Summary**: Individual questions are graded as 0, 0.5, 1. Entire homework assignments are graded as 0, 1, 2.
-
-*Note: Homework assignments with additional questions are NOT worth more than homework assignments with fewer. All homework assignments are graded on the 0, 1, or 2 scale and are worth an equal amount.* 
-
-### Resubmitting Homework 
-
-If a student receives a grade less than a 2 on a homework assignment, they have the opportunity to resubmit the assignment for additional credit. There will be another assignment page on Gradescope where the new attempt can be submitted. Resubmissions must include the original answer to the question followed by the updated response. An example resubmission is provided [here](https://github.com/UVADS/DS-2026/blob/main/misc/hw-resubmission-example.pdf). 
-
-If your answer for a question received a 0, the most points you can receive for that question in the resubmission is 0.5. If the original answer received a 0.5, it can be increased to a 1 for full credit. This incentives a good faith effort on the original attempt.
-
-Resubmissions will be due on the Friday following the release of the grades. For example, if grades are released on Monday the resubmission will be due the Friday of the same week.
- 
 ## Final exam schedule
 
 The final exam for both sections is **TBD**.
