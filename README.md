@@ -50,10 +50,10 @@ Github:
 
 | Time | Primary location | Alternate location* |
 |:---:|:---:|:---:|
-| Mondays @ noon | SDS Hub | SDS 4th floor puzzle space |
-| Mondays @ 1pm | SDS Hub | SDS 4th floor puzzle space |
-| Wednesdays @ 2pm | SDS Hub | SDS 4th floor puzzle space |
-| Thursdays @ 4pm | SDS Hub | SDS 4th floor puzzle space |
+| Mondays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
+| Tuesdays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
+| Thursdays @ 10am | SDS Hub | SDS 4th floor puzzle space |
+| Thursdays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
 
 *If the Hub is being used for an event, office hours will be on the 4th floor landing of the SDS building.
 
@@ -61,7 +61,7 @@ Github:
 
 The following textbooks are freely available online via the UVA library.
 
-[Understanding uncertainty](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=1574353)
+[Understanding Uncertainty](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=1574353)
 by Dennis V. Lindley  
 
 [Understanding Probability, 3rd edition](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=944763)  
