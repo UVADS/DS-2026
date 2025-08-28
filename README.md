@@ -221,6 +221,13 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Dec 04 | Spillover| |
 | Tu Dec 09 | EXAM PREP| |
 
+
+## A few Policies that will Govern the Class
+
+There are many additional policies that this course inherits from the School of Data Science course policies, please see [here](https://myuva-my.sharepoint.com/:w:/r/personal/vzm6dw_virginia_edu/Documents/courses/computational-probability-fall-2024/DS-2026-BSDS%20Syllabus%20Policies%20Fall%202025.docx?d=wf898dd6ef8574e8ea29ee2fb3c8fce0f&csf=1&web=1&e=rGq6bD)
+
+
+
 <!-- <details><summary>Reading</summary></details> -->
 <!-- | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
