@@ -187,13 +187,13 @@ The final exam for both sections is **TBD**.
 
 Homeworks, deliverables, reading assignments, and exams will be posted on the course calendar below.  Homeworks are due before the start of class.
 
-| Date | Topic | Due |
+| Date | Topic | Due<br>(By 2pm) |
 |:-----|:------|:----|
 | Tu Aug 26 | Syllabus & 31¢ Coin | |
 | Th Aug 28 | Datacamp/Python | |
 | Tu Sep 02 | Datacamp/Python<br>Markdown | [HW: Introduction to Python in DataCamp](homework/01-intro-python.md) |
 | Th Sep 04 | Repro Reports<br>+ Quarto<br>+ Jupiter<br>Working directory| [HW: Intermediate Python in DataCamp](homework/02-intermediate-python.md) |
-| Tu Sep 09 | Solutions in code                                | Create a report |
+| Tu Sep 09 | Solutions in code                                | [HW Create a report](homework/03-create-a-report.md) |
 | Th Sep 11 | Definitions of probability                       | Create a reproducible report with code and figures |
 | Tu Sep 16 | Data types                                       | Examples of uncertainty |
 | Th Sep 18 | Univariate random variables<br>+Binary<br>+Nominal categorical<br>Rules of probability<br>+ Total prob<br>+ compliment<br>+ PMF<br>+ CPF<br>+ Generate draws<br>+ Visualizations | Examples of uncertainty with data type|
