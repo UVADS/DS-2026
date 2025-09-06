@@ -11,4 +11,4 @@ In class, you wrote code which would generate a solution to the birthday problem
 ## Submission instructions
 
 1. Render your report as a PDF.
-2. Submit the report to Gradescope (specific instructions forthcoming).
+2. Submit the report to [Gradescope via Canvas (link)](https://canvas.its.virginia.edu/courses/153564/assignments/763106).
