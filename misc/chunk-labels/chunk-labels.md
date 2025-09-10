@@ -1,7 +1,7 @@
 # Understanding chunk labels
 
 
-Chunk labels are for debugging and organizing. They do not appear in the
+Chunk labels are for **debugging** and **organizing** code. They do **NOT** appear in the
 rendered document. For example, consider the `.qmd` file below.
 
 ```` {verbatim}
