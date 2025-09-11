@@ -1,0 +1,114 @@
+---
+format: 
+ revealjs:
+    slide-number: true
+    # You can add custom CSS or other Reveal.js options here
+    # theme: simple # Example theme
+title: "Understanding Uncertainty and Probability"
+subtitle: "A Pervasive and Personal Reality"
+---
+
+### Uncertainty: A Pervasive Reality
+
+*   **Definition:** Most statements are uncertain for you; you don't know if they're true or false.
+*   **Personal Nature:**
+    *   Uncertainty is personal; what's known or uncertain varies by individual.
+    *   Degrees of uncertainty also differ between people.
+    *   It's a unique relationship between a person ("you") and the world, not an objective property.
+
+---
+
+### Uncertainty: Ubiquity & History
+
+*   **Ubiquity:**
+    *   Uncertain statements far outnumber known truths/falsities for any individual.
+    *   All statements about the future are uncertain.
+    *   Uncertainty is omnipresent in our lives.
+*   **Historical Context:**
+    *   Systematic study began only in the 20th century.
+    *   Earlier studies were limited to special types, like gambling.
+
+---
+
+### Examples of Uncertainty: Everyday
+
+#### Weather Forecasts
+
+*   "It will rain tomorrow" is uncertain for changeable climates.
+*   Uncertainty is temporary, revealed by tomorrow.
+*   Consulting sources (barometer, TV) can change its degree.
+
+#### Historical Events
+
+*   "The Princes in the Tower were murdered on the orders of Richard III" is an uncertain historical statement.
+*   The full truth of past incidents is often unknown.
+*   Historians may quantify doubts with probabilities (e.g., 98%).
+
+---
+
+### Examples of Uncertainty: Science & Finance
+
+#### Medical Claims
+
+*   "Selenium will reduce cancer chances" exemplifies medical uncertainty.
+*   Many claims are uncertain, even for scientists.
+*   Active science is full of uncertainty; experiments reduce it.
+
+#### Financial Markets
+
+*   "Shares in pharmaceutical companies will rise" is uncertain.
+*   Doubt must be inferred; no clear odds like gambling.
+*   Buyers/sellers often disagree on chances.
+
+---
+
+### Examples of Uncertainty: Predictions & Polls
+
+#### Predictions & Forecasts
+
+*   "Inflation next year will be 3.7%" appears firm but is uncertain.
+*   Better to use ranges, e.g., "between 3.1% and 4.3%."
+
+#### Polls & Surveys
+
+*   "If an election were to be held tomorrow, 48% would vote Democrat" is uncertain.
+*   Due to small sample sizes and changing/untruthful respondents.
+
+---
+
+### Examples of Uncertainty: High-Impact Events
+
+#### Nuclear Accident
+
+*   "A serious nuclear accident in Britain next year" involves extreme seriousness but very small chance.
+*   Balancing these aspects is challenging.
+
+---
+
+### Probability: Measure of Beliefs
+
+*   Probability provides a systematic approach to managing uncertainty.
+*   **It measures the strength of your belief in an event's truth.**
+*   Acts as logic applied to randomness, a framework for the unknown.
+*   **Probability is personal, not an objective property** like distance.
+    *   Depends on "you" and the event being observed.
+    *   Uncertainty is a relationship between you and an event.
+
+---
+
+### Probability: Importance & Applications
+
+*   **Rational Methodology:** Provides a framework for managing beliefs.
+*   **Key Capabilities:**
+    *   **Computations & Predictions:** Models randomness, predicts evolution.
+    *   **Update Beliefs:** Incorporate new data/information.
+    *   **Organize Beliefs Sensibly:** Establishes how beliefs should relate (like geometry rules).
+    *   **Guide Actions:** Improves life by informing decisions (decision analysis).
+
+---
+
+### Probability: Conclusion
+
+*   **Practical Use:** Combines multiple uncertainties with objectives for decisions (e.g., nuclear power plants: low probability, high impact).
+*   **Overall:** Probability equips us with tools to calculate with uncertainties, transforming a complex phenomenon into a manageable calculus.
+*   **Benefit:** Enables living comfortably with the unknown, rather than suppressing it.
