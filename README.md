@@ -43,7 +43,7 @@ eam5kk@virginia.edu
 
 | Time | Location | 
 |:---:|:---:|
-|  | SDS Rm 431 |
+| Tue 1-2pm Thur 5-6pm | SDS Rm 431 |
 | Thursdays @ 9am | SDS Rm 348 |
 
 **TA Office Hours:**  
