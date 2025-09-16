@@ -6,6 +6,7 @@
    - Your account is part of the **DS 2026** class.
 3. Complete the **Data Manipulation with pandas** course.  
    - Estimated time: **~3 hours**.
+4. Submit your certificate of completion on Gradescope
 
 ---
 
