@@ -196,7 +196,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Tu Sep 09 | Solutions in code                                | [HW: Create a report](homework/03-create-a-report.md) |
 | Th Sep 11 | Definitions of probability                       | [HW: Create a quarto report](homework/04-create-a-quarto-report.md) |
 | Tu Sep 16 | Data types                                       | [HW: Examples of uncertainty](homework/05-examples-of-uncertainty.md) |
-| Th Sep 18 | Univariate random variables<br>+Binary<br>+Nominal categorical<br>Rules of probability<br>+ Total prob<br>+ compliment<br>+ PMF<br>+ CPF<br>+ Generate draws<br>+ Visualizations | Examples of uncertainty with data type|
+| Th Sep 18 | Univariate random variables<br>+Binary<br>+Nominal categorical<br>Rules of probability<br>+ Total prob<br>+ compliment<br>+ PMF<br>+ CPF<br>+ Generate draws<br>+ Visualizations | [Data manipulation with pandas](homework/06-intro-to-pandas.md)|
 | Tu Sep 23 | Random variables from an urn<br>+ Sampling (with / without replacement)<br>+ Order (hands / sequences) | |
 | Th Sep 25 | CONTINUED | |
 | Tu Sep 30 | More univariate random variables<br>+ Binomial<br>+ Negative binomial (Geometric)<br>+ World Series<br>+ Poisson| |
