@@ -200,8 +200,8 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Tu Sep 23 | Random variables from an urn<br>+ Sampling (with / without replacement)<br>+ Order (hands / sequences) | |
 | Th Sep 25 | CONTINUED | |
 | Tu Sep 30 | More univariate random variables<br>+ Binomial<br>+ Negative binomial (Geometric)<br>+ World Series<br>+ Poisson| |
-| Th Oct 02 | Spillover / EXAM PREP | Roulette Deliverable |
-| Tu Oct 07 | EXAM PREP | |
+| Th Oct 02 | Spillover / EXAM PREP | [Roulette Deliverable<br> (DUE: Sun, Oct 5 @ 11:59 PM)](https://tgstewart.cloud/compprob/roulette.html) |
+| Tu Oct 07 | EXAM PREP | Practice exam (not graded) |
 | Th Oct 09 | EXAM | |
 | Tu Oct 14 | FALL BREAK | |
 | Th Oct 16 | Debrief<br>Bivariate binary/categorical<br>+ Conditional prob (row and col)<br>+ Marginal prob<br>+ Independence<br>+ Correlation<br>+ Bayes rule| |
