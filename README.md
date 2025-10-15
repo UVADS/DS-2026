@@ -181,7 +181,7 @@ Midterm exams are graded on a 100 point scale.  For midterm 1, if your grade on 
 
 ## Final exam schedule
 
-The final exam for both sections is **TBD**.
+The final exam for both sections is **Saturday, December 13, 2025** from **9:00AM-12:00PM** in rooms DS 205, 206, 246.
 
 ## 2025 Calendar
 
