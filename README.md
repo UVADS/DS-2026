@@ -205,7 +205,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Oct 09 | EXAM | |
 | Tu Oct 14 | FALL BREAK | |
 | Th Oct 16 | Debrief<br>Bivariate binary/categorical<br>+ Conditional prob (row and col)<br>+ Marginal prob<br>+ Independence<br>+ Correlation<br>+ Bayes rule| |
-| Tu Oct 21 | CONTINUED| [EC: Python Tools](homework/08-exam-1-extra-credit.md) |
+| Tu Oct 21 | CONTINUED| [EC: Python Tools<br>(Due: 11:45pm)](homework/08-exam-1-extra-credit.md) |
 | Th Oct 23 | CONTINUED| Rules of probability for two variables |
 | Tu Oct 28 | Diagnostics| |
 | Th Oct 30 | EXAM PREP| |
