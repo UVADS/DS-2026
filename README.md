@@ -205,9 +205,9 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Oct 09 | EXAM | |
 | Tu Oct 14 | FALL BREAK | |
 | Th Oct 16 | Debrief<br>Bivariate binary/categorical<br>+ Conditional prob (row and col)<br>+ Marginal prob<br>+ Independence<br>+ Correlation<br>+ Bayes rule| |
-| Tu Oct 21 | CONTINUED| [EC: Python Toolbox<br>(Due: Wed, Oct 22 @ 11:45 PM)](homework/08-exam-1-extra-credit.md) |
+| Tu Oct 21 | CONTINUED| [EC: Python Toolbox<br>(DUE: Wed, Oct 22 @ 11:45 PM)](homework/08-exam-1-extra-credit.md) |
 | Th Oct 23 | CONTINUED| Rules of probability for two variables |
-| Tu Oct 28 | Diagnostics| |
+| Tu Oct 28 | Diagnostics| [HW: Bayes & Kpop (DUE: Tue, Oct 28 @ 2 PM](https://github.com/UVADS/DS-2026/blob/main/homework/09-bayes%20and%20kpop.md) |
 | Th Oct 30 | EXAM PREP| |
 | Tu Nov 04 | ELECTION DAY (No class)| |
 | Th Nov 06 | EXAM II| |
