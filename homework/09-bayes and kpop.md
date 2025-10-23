@@ -7,7 +7,7 @@ Two students, A and B, each write long essays.
 - Student B makes, on average, **4 errors per page**.  
 
 If a page from an essay is found without a name and it contains 3 errors, what is the probability that it was written by Student A, given that it has 3 errors?
-(Hint: You may want to create a table to fill out)
+(Hint 1: You may want to create a table to fill out) (Hint 2: Errors per page ~ Poisson)
 
 ---
 
