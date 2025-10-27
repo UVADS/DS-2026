@@ -50,7 +50,7 @@ eam5kk@virginia.edu
 
 | Time | Primary location | Alternate location* |
 |:---:|:---:|:---:|
-| Mondays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
+| Mondays @ 5pm | [Zoom](https://virginia.zoom.us/j/99297207370?pwd=2QWFdngCcEshfSqH93gzRLmikth4D0.1) | SDS 4th floor puzzle space |
 | Tuesdays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
 | Thursdays @ 10am | SDS Hub | SDS 4th floor puzzle space |
 | Thursdays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
