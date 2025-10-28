@@ -208,7 +208,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Tu Oct 21 | CONTINUED| [EC: Python Toolbox<br>(DUE: Wed, Oct 22 @ 11:45 PM)](homework/08-exam-1-extra-credit.md) |
 | Th Oct 23 | CONTINUED| Rules of probability for two variables |
 | Tu Oct 28 | Diagnostics| [HW: Bayes & Kpop (DUE: Tue, Oct 28 @ 2 PM)](https://github.com/UVADS/DS-2026/blob/main/homework/09-bayes%20and%20kpop.md) |
-| Th Oct 30 | EXAM PREP| |
+| Th Oct 30 | EXAM PREP| [Resubmission for Deliverable: Roulette (DUE: Wed, Oct 29 @ 11:59 PM)](https://www.gradescope.com/courses/1119311/assignments/7034448) |
 | Tu Nov 04 | ELECTION DAY (No class)| |
 | Th Nov 06 | EXAM II| |
 | Tu Nov 11 | Observational data<br>+ Confounding<br>+ Simpson's paradox<br>+ DAGs<br>+ Randomization/stratification | |
