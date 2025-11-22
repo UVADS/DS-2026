@@ -1,6 +1,10 @@
 # HW: Continuous random variables
 
-The material on continuous random variables in the course notes will be helpful for this HW.
+> [!IMPORTANT]
+> Because it is longer, this HW is worth double.
+
+> [!TIP]
+> The material on continuous random variables in the [course notes (link)](https://tgstewart.cloud/compprob/Continuous-RVs.html) will be helpful for this HW.
 
 ## Question 1
 
