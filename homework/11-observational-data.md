@@ -58,7 +58,7 @@ Determine if the vaccine is effective.  Justify your answer.
 
 Suppose you want to know if going to office hours improves performance on an exam.
 
-Identify 2 variables that might be confounding and 2 variables that might be intermediate.  (Total of 4 variables.)  Explain why each example is confonding or intermediate.  
+Identify 2 variables that might be confounding and 2 variables that might be intermediate.  (Total of 4 variables.)  Explain why each example is confounding or intermediate.  
 
 # Submission instructions
 1. Create a Quarto or Jupyter Notebook report with your answers.
