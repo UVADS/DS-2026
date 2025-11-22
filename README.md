@@ -50,10 +50,10 @@ eam5kk@virginia.edu
 
 | Time | Primary location | Alternate location* |
 |:---:|:---:|:---:|
-| Mondays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
+| Mondays @ 5pm | [Zoom](https://virginia.zoom.us/j/99297207370?pwd=2QWFdngCcEshfSqH93gzRLmikth4D0.1) | SDS 4th floor puzzle space |
 | Tuesdays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
 | Thursdays @ 10am | SDS Hub | SDS 4th floor puzzle space |
-| Thursdays @ 5pm | SDS Hub | SDS 4th floor puzzle space |
+| Thursdays @ 5pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIxZjVmMWYtYmRkOS00YzNmLTg2M2MtOTQxMmE3NjRiZDE0%40thread.v2/0?context=%7b%22Tid%22%3a%227b3480c7-3707-4873-8b77-e216733a65ac%22%2c%22Oid%22%3a%22120c0a52-8f0b-43a8-ab1d-3dc5b250be39%22%7d) | SDS 4th floor puzzle space |
 
 *If the Hub is being used for an event, office hours will be on the 4th floor landing of the SDS building.
 
@@ -205,11 +205,11 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Oct 09 | EXAM | |
 | Tu Oct 14 | FALL BREAK | |
 | Th Oct 16 | Debrief<br>Bivariate binary/categorical<br>+ Conditional prob (row and col)<br>+ Marginal prob<br>+ Independence<br>+ Correlation<br>+ Bayes rule| |
-| Tu Oct 21 | CONTINUED| [EC: Python Toolbox<br>(Due: 11:45pm)](homework/08-exam-1-extra-credit.md) |
+| Tu Oct 21 | CONTINUED| [EC: Python Toolbox<br>(DUE: Wed, Oct 22 @ 11:45 PM)](homework/08-exam-1-extra-credit.md) |
 | Th Oct 23 | CONTINUED| Rules of probability for two variables |
-| Tu Oct 28 | Diagnostics| |
-| Th Oct 30 | EXAM PREP| |
-| Tu Nov 04 | ELECTION DAY (No class)| |
+| Tu Oct 28 | Diagnostics| [HW: Bayes & Kpop (DUE: Tue, Oct 28 @ 2 PM)](https://github.com/UVADS/DS-2026/blob/main/homework/09-bayes%20and%20kpop.md) |
+| Th Oct 30 | EXAM PREP| [Resubmission for Roulette Deliverable (DUE: Wed, Oct 29 @ 11:59 PM)](https://www.gradescope.com/courses/1119311/assignments/7034448) |
+| Tu Nov 04 | ELECTION DAY (No class)| [Practice Exam 2 (DUE: Wed, Nov 5 @ 11:59 PM)](https://github.com/UVADS/DS-2026/blob/main/homework/10-practice-exam-2.md) |
 | Th Nov 06 | EXAM II| |
 | Tu Nov 11 | Observational data<br>+ Confounding<br>+ Simpson's paradox<br>+ DAGs<br>+ Randomization/stratification | |
 | Th Nov 13 | Univariate continuous<br>+ Normal<br>+ Gamma (Exp)<br>+ Beta (Uniform)<br>+ Mixture| |
