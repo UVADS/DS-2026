@@ -128,7 +128,7 @@ $$
 f(x) = c\sqrt(1-x^2)\qquad -1 \leq x \leq 1
 $$
 
-Find the value of $c$ that makes the $F$ a valid density function.
+Find the value of $c$ that makes the $f$ a valid density function.
 
 ## Question 13
 
@@ -138,7 +138,7 @@ $$
 f(x) = c\sqrt(1-x^2)\qquad 0 \leq x \leq 1
 $$
 
-Find the value of $c$ that makes the $F$ a valid density function.
+Find the value of $c$ that makes the $f$ a valid density function.
 
 ## Question 14
 
