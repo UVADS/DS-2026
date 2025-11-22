@@ -217,6 +217,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Nov 20 | Estimation<br>+ MLE<br>+ Bayes<br>+ KDE| |
 | Tu Nov 25 | THANKSGIVING (No class)| |
 | Th Nov 27 | THANKSGIVING (No class)| |
+| Sun Nov 30| | [HW: Confounding/Intermediate/Continuous RV<br>DUE: Sun, Nov 30 @ 11:59 PM](homework/09-observational-data.md) |
 | Tu Dec 02 | Communicating uncertainty<br>+ Confidence intervals<br>--+empirical<br>--+asymptotic<br>+ Support intervals<br>+ Credible intervals| |
 | Th Dec 04 | Spillover| |
 | Tu Dec 09 | EXAM PREP| |
