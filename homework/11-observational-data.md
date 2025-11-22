@@ -1,5 +1,8 @@
 # HW: Confounding and Intermediate Variables
 
+> [!IMPORTANT]
+> Because it is longer, this HW is worth double.
+
 ## Question 1
 
 Read chapter 8 of Understanding Uncertainty.
