@@ -1,3 +1,5 @@
+**NOTE: This is a double homework.  It is worth 2 homework assignments.**
+
 # Part 1: Confounding and Intermediate Variables
 
 ## Question 1
