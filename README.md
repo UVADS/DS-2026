@@ -51,7 +51,7 @@ eam5kk@virginia.edu
 | Time | Primary location | Alternate location* |
 |:---:|:---:|:---:|
 | Mondays @ 5pm | [Zoom](https://virginia.zoom.us/j/99297207370?pwd=2QWFdngCcEshfSqH93gzRLmikth4D0.1) | SDS 4th floor puzzle space |
-| Tuesdays @ 5pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIxZjVmMWYtYmRkOS00YzNmLTg2M2MtOTQxMmE3NjRiZDE0%40thread.v2/0?context=%7b%22Tid%22%3a%227b3480c7-3707-4873-8b77-e216733a65ac%22%2c%22Oid%22%3a%22120c0a52-8f0b-43a8-ab1d-3dc5b250be39%22%7d) | SDS 4th floor puzzle space |
+| Tuesdays @ 6:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIxZjVmMWYtYmRkOS00YzNmLTg2M2MtOTQxMmE3NjRiZDE0%40thread.v2/0?context=%7b%22Tid%22%3a%227b3480c7-3707-4873-8b77-e216733a65ac%22%2c%22Oid%22%3a%22120c0a52-8f0b-43a8-ab1d-3dc5b250be39%22%7d) | SDS 4th floor puzzle space |
 | Thursdays @ 10am | SDS Hub | SDS 4th floor puzzle space |
 | Thursdays @ 5pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjIxZjVmMWYtYmRkOS00YzNmLTg2M2MtOTQxMmE3NjRiZDE0%40thread.v2/0?context=%7b%22Tid%22%3a%227b3480c7-3707-4873-8b77-e216733a65ac%22%2c%22Oid%22%3a%22120c0a52-8f0b-43a8-ab1d-3dc5b250be39%22%7d) | SDS 4th floor puzzle space |
 
