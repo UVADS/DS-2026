@@ -214,7 +214,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Tu Nov 11 | Observational data<br>+ Confounding<br>+ Simpson's paradox<br>+ DAGs<br>+ Randomization/stratification | |
 | Th Nov 13 | Univariate continuous<br>+ Normal<br>+ Gamma (Exp)<br>+ Beta (Uniform)<br>+ Mixture| |
 | Tu Nov 18 | Bivariate continuous<br>+ Conditional (dist & expectation)<br>+ Marginal<br>+ Independence<br>+ Covariance/Correlation<br>+ Confounding throwback| |
-| Th Nov 20 | Estimation<br>+ MLE<br>+ Bayes<br>+ KDE| |
+| Th Nov 20 | Estimation<br>+ MLE<br>~~+ Bayes~~<br>~~+ KDE~~| |
 | Tu Nov 25 | THANKSGIVING (No class)| |
 | Th Nov 27 | THANKSGIVING (No class)| |
 | Sun Nov 30| | [HW: Confounding/Intermediate<br>DUE: Sun, Nov 30 @ 11:59 PM](homework/11-observational-data.md) |
