@@ -211,7 +211,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Oct 30 | EXAM PREP| [Resubmission for Roulette Deliverable (DUE: Wed, Oct 29 @ 11:59 PM)](https://www.gradescope.com/courses/1119311/assignments/7034448) |
 | Tu Nov 04 | ELECTION DAY (No class)| [Practice Exam 2 (DUE: Wed, Nov 5 @ 11:59 PM)](https://github.com/UVADS/DS-2026/blob/main/homework/10-practice-exam-2.md) |
 | Th Nov 06 | EXAM II| |
-| Tu Nov 11 | Observational data<br>+ Confounding<br>+ Simpson's paradox<br>+ DAGs<br>+ Randomization/stratification | |
+| Tu Nov 11 | Observational data<br>+ Confounding<br>+ Simpson's paradox<br>~~+ DAGs~~<br>+ Randomization/stratification | |
 | Th Nov 13 | Univariate continuous<br>+ Normal<br>+ Gamma (Exp)<br>+ Beta (Uniform)<br>+ Mixture| |
 | Tu Nov 18 | Bivariate continuous<br>+ Conditional (dist & expectation)<br>+ Marginal<br>+ Independence<br>+ Covariance/Correlation<br>+ Confounding throwback| |
 | Th Nov 20 | Estimation<br>+ MLE<br>~~+ Bayes~~<br>~~+ KDE~~| |
