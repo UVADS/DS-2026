@@ -52,6 +52,7 @@ juk5gq@virginia.edu
 | Tue 3:30 - 5:30pm | Rm 431 | |
 | Wed 12:00 - 2:00pm | Hub | 4th floor puzzle space |
 | Wed 3:00 - 5:00pm | Hub | 4th floor puzzle space |
+| Thu 3:30 - 4:30pm | Rm 348 | |
 
 *If the Hub is being used for an event, office hours will be on the 4th floor landing of the SDS building.
 

@@ -1,3 +1,11 @@
+/deliverables/deliverable1-roulette.md
+/deliverables/deliverable2-absolute-error.md
+
+# Homework: ignore everything except the pointer file
+/homework/*
+!/homework/where-to-find-hw.md
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
