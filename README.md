@@ -184,7 +184,7 @@ Midterm exams are graded on a 100 point scale.  For midterm 1, if your grade on 
 
 The final exam for all sections is **Saturday, December 12, 2025** from **2:00PM-5:00PM** in rooms DS 205, 206, 246.
 
-## 2025 Calendar
+## 2026 Calendar
 
 Homeworks, deliverables, reading assignments, and exams will be posted on the course calendar below.  Homeworks are due before the start of class.
 
