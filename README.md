@@ -195,9 +195,9 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Tu Sep 01 | Data types and summaries<br>Random variables (RV) |  |
 | Th Sep 03 | Rules of prob of 1 cat/ordinal variable | HW 1  |
 | Tu Sep 08 | Rules of prob of 2 cat/ordinal variables<br>+ Cell prob<br>+ Conditional prob (row and col)<br>+ Marginal prob<br>+ Independence<br>+ Correlation<br>+ Bayes rule |  |
-| Th Sep 10 | Cont. |  |
+| Th Sep 10 | Cont. | HW 2 |
 | Tu Sep 15 | Cont. |  |
-| Th Sep 17 | Prediction diagnostics<br>+ Sensitivity<br>+ Specificity<br>+ PPV<br>+ NPV | |
+| Th Sep 17 | Prediction diagnostics<br>+ Sensitivity<br>+ Specificity<br>+ PPV<br>+ NPV | HW 3 |
 | Tu Sep 22 | Random variables from an urn<br>+ Sampling (with / without replacement)<br>+ Order (hands / sequences) | |
 | Th Sep 24 | More univariate, discrete random variables<br>+ Binomial<br>+ Negative binomial (Geometric)<br>+ World Series<br>+ Poisson | |
 | Tu Sep 29 | Exam prep | |
