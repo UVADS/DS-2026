@@ -174,7 +174,7 @@ Grades will be a weighted average of the final exam score (30%), the midterm exa
 
 Homeworks sets are assigned regularly, and will appear in the course calendar.  On the due date, class will end with a single question pulled from (and potentially modified) the HW set.  You will have 15 minutes to write a solution.  It is closed book and closed note.  One homework grade will be dropped when calculating the final grade.
 
-Rather than accepting late/missed homework, students may schedule a 10 minute oral exam with the TAs.  The TAs will ask you to explain a homework problem (potentially modified).  Students may schedule up to two oral exams during the semester.
+Rather than accepting late/missed homework, students may schedule a 10 minute oral exam with the TAs.  The TAs will ask you to explain a homework problem (potentially modified).  Students may schedule up to two oral exams during the semester.  The scores from the oral exams replace the original homework score.  **UPDATED 2026-09-21:** Students may schedule an oral exam for any homework, even if it was not missed.  An oral exam to replace a homework must be scheduled within two weeks of the original homework's due date.
 
 Deliverables are larger assignments than homework.  To complete the deliverables, you will use probability models to build simulations of complex real world processes to answer questions. 
 
