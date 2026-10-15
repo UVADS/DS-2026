@@ -206,8 +206,9 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Th Oct 08 | Compute refresh<br>+ Python<br>+ Markdown<br>+ Literate programing<br>+ Reproducible reports<br>+ .venv<br>+ working dir| |
 | Tu Oct 13 | Simulation<br>+ Birthday problem<br>+ Monty Hall<br>+ Poker | |
 | Th Oct 15 | Variation & num replicates<br>Law of large numbers| |
-| Tu Oct 20 | 1 continuous RV<br>+ density/PDF<br>+ CDF<br> Calc review<br>+ Area under curve | Deliverable 1 |
+| Tu Oct 20 | 1 continuous RV<br>+ density/PDF<br>+ CDF<br> Calc review<br>+ Area under curve |  |
 | Th Oct 22 | Cont.<br>+ normal<br>+ gamma<br>+ beta<br>+ mixture |  |
+| Su Oct 25 | | Deliverable 1 |
 | Tu Oct 27 | 2 continuous RV |  |
 | Th Oct 29 | Cont.<br>Exam prep |  |
 | Tu Nov 03 | ELECTION DAY (No class)| |
