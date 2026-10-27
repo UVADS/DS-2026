@@ -209,7 +209,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Tu Oct 20 | 1 continuous RV<br>+ density/PDF<br>+ CDF<br> Calc review<br>+ Area under curve |  |
 | Th Oct 22 | Cont.<br>+ normal<br>+ gamma<br>+ beta<br>+ mixture |  |
 | Su Oct 25 | | Deliverable 1 |
-| Tu Oct 27 | 2 continuous RV |  |
+| Tu Oct 27 | 2 continuous RV **Moved to after exam** |  |
 | Th Oct 29 | Cont.<br>Exam prep |  |
 | Tu Nov 03 | ELECTION DAY (No class)| |
 | Th Nov 05 | EXAM II| |
