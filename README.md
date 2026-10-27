@@ -46,13 +46,13 @@ juk5gq@virginia.edu
 
 **Office Hours:**
 
-| Time | Location | Alternate location* |
-|:---:|:---:|:---:|
-| Mon 2 - 4pm | Hub | 4th floor puzzle space |
-| Tue 3:30 - 5:30pm | Rm 431 | |
-| Wed 12:00 - 2:00pm | Hub | 4th floor puzzle space |
-| Wed 3:00 - 5:00pm | Hub | 4th floor puzzle space |
-| Thu 3:30 - 4:30pm | Rm 348 | |
+| Time | Location | Alternate location* | Instructor |
+|:---:|:---:|:---:|:---:|
+| Mon 2 - 4pm | Hub | 4th floor puzzle space | Stephen |
+| Tue 3:30 - 5:30pm | Rm 431 | | Gianluca |
+| Wed 12:00 - 2:00pm | Hub | 4th floor puzzle space | Maxwell |
+| Wed 3:00 - 5:00pm | Hub | 4th floor puzzle space | Anu |
+| Thu 3:30 - 4:30pm | Rm 348 | | Thomas |
 
 *If the Hub is being used for an event, office hours will be on the 4th floor landing of the SDS building.
 
